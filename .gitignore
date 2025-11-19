@@ -28,6 +28,7 @@ env/
 
 # IDE
 .vscode/
+.agent/
 .github/
 .idea/
 *.swp
@@ -51,3 +52,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+node_modules/
